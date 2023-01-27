@@ -1,2 +1,2 @@
 # CPP-code-examples
-Code example for the course Advanced Programming 1. 
+Code examples for the course Advanced Programming 1. 
