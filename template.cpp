@@ -21,6 +21,7 @@ int main(){
     foo(a);
     // no defined cout in bar. Need to override for the cout to work properly.
     // We assume that cout knows how to receive but it's not the case.
+
     Bar b;
     //foo(b);
 }
